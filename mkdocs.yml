@@ -1,0 +1,4 @@
+site_name: package
+site_description: Your project description goes in here
+repo_url: https://github.com/hackoregon/repo
+site_dir: html

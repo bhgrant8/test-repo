@@ -1,0 +1,13 @@
+{
+    "_template": "https://github.com/BrianHGrant/cookiecutter-hacko-backend.git", 
+    "app_name": "app", 
+    "email": "bhgrant8@gmail.com", 
+    "full_name": "Brian", 
+    "github_username": "yourname", 
+    "open_source_license": "MIT", 
+    "project_short_description": "Your project description goes in here", 
+    "pypi_project_name": "package", 
+    "repo_name": "repo", 
+    "version": "0.1.0", 
+    "year": "2015"
+}
